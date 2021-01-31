@@ -32,7 +32,7 @@ HDR base.o_k.part \
 HDR base.ml_g.part \
 HDR base.m_g.part \
 HDR compat/base.mlv_s.part   base.mlv_s.part \
-HDR compat/base.ml_s.part    base.ml_s.part  \
+HDR base.ml_s.part  compat/base.ml_s.part     \
 HDR compat/base.ml1_s.part   base.ml1_s.part \
 HDR compat/base.ml1v1_s.part \
 HDR compat/base.ml2_s.part    base.ml2_s.part  \
@@ -70,7 +70,7 @@ HDR base.o_k.part \
 HDR base.ml_g.part \
 HDR base.m_g.part \
 HDR compat/base.mlv_s.part   base.mlv_s.part \
-HDR compat/base.ml_s.part    base.ml_s.part  \
+HDR base.ml_s.part  compat/base.ml_s.part     \
 HDR compat/base.ml1_s.part   base.ml1_s.part \
 HDR compat/base.ml1v1_s.part \
 HDR compat/base.ml2_s.part    base.ml2_s.part  \
